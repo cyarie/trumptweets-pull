@@ -1,0 +1,19 @@
+{
+  "app":{
+    "development": {
+      "appName": "trump-tweets-dev",
+      "twitter": {
+        "consumerKey": "",
+        "consumerSecret": "",
+        "token": "",
+        "tokenSecret": ""
+      },
+      "database": {
+        "host": "",
+        "name": "",
+        "user": "",
+        "password": ""
+      }
+    }
+  }
+}
